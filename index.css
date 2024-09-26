@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background-color: #f3f3f3;
+}
+#from input{
+   border-radius: 20px;
+}
+ form{
+    border-radius: 30px;
+}
